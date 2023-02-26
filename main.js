@@ -11,5 +11,3 @@ document.body.innerHTML += "<p>" + celeJmeno + ", věk: " + (2023-vek) + "</p>";
 
 
 
-
-
