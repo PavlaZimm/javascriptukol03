@@ -10,5 +10,5 @@ document.body.innerHTML += "<p>" + celeJmeno + ", věk: " + (2023-vek) + "</p>";
 
 function zmenaBarvy(){
     let text = document.querySelector('.odstavec');
-    ctverecek.style.backgroundColor = "barvaZadanaUzivatelem";
+    odstavec.style.backgroundColor = "barvaZadanaUzivatelem";
   }
