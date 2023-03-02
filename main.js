@@ -9,6 +9,6 @@ let barvaZadanaUzivatelem = prompt("napište vaši oblíbenou barvu anglicky?");
 document.body.innerHTML += "<p>" + celeJmeno + ", věk: " + (2023-vek) + "</p>";
 
 let text = document.querySelector(".odstavec");
-text.style.backgroundColor = "barvaZadanaUzivatelem";
+text.style.backgroundColor = barvaZadanaUzivatelem;
 
 
